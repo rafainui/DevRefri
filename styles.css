@@ -80,3 +80,7 @@
 .item.item.active .title {
     animation: toActive 0.5s ease-in-out 1;
 }
+
+.fruit {
+    left: 70px;
+}
